@@ -1,2 +1,2 @@
 # my pythin repo
-this repo contains all my apps
+this repo contains all my new apps
