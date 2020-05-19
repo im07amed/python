@@ -1,3 +1,5 @@
-print('hello')
-print(12)
-print ('test')
+print('hello world \n')
+print (''' this is a multiline
+to test''')
+print('\n')
+print("the same")
